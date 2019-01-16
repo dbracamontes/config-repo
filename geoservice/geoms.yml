@@ -10,7 +10,7 @@ spring.jpa.properties.hibernate.show_sql: true
 spring.jpa.properties.hibernate.enable_lazy_load_no_trans: true
 spring.jpa.hibernate.ddl-auto: update
 server.port: 8080
-server.servlet.context-path: /geo
+#server.servlet.context-path: /geo
 info.app.name: Geo
 info.app.description: Geo application store info about states, neighbors , cp
 info.app.version: 1.0.0
